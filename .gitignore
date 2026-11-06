@@ -2,4 +2,3 @@ node_modules
 .env
 app.log
 prisma/dev.db
-git rm --cached prisma/dev.db
